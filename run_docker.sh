@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 ## Complete the following steps to get Docker running locally
-# Project4
 
 # Step 1:
 # Build image and add a descriptive tag

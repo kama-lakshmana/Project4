@@ -3,8 +3,6 @@
 
 # Assumes that an image is built via `run_docker.sh`
 
-# Project4
-
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
